@@ -1,8 +1,5 @@
-.example-appear {
-  opacity: 0.01;
-}
-
-.example-appear.example-appear-active {
-  opacity: 1;
-  transition: opacity 0.5s ease-in;
+body {
+  background-color: #E9EFF2;
+  margin: 0;
+  font-family: 'didact gothic';
 }
