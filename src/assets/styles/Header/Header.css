@@ -1,0 +1,70 @@
+.header-container {
+    border-bottom: 1.5px solid #efefef;
+    display: flex;
+    background-color: #ffffff;
+}
+
+.main-header {
+    margin-left: 1.5em;
+    border-right: 1.5px solid #efefef;
+    padding: 1em 0;
+}
+
+.header-span {
+    font-size: 1.8em;
+    color: gray;
+    font-weight: bold;
+}
+
+.header-ending {
+    font-size: 1.8em;
+    color: #b9b9b9;
+    font-weight: lighter;
+    margin-right: 1em;
+    
+}
+
+.organisation-block {
+    margin: 0 15em 0 2em;
+    padding: 1.5em 0;
+}
+
+.schedule-block, .customers-block, .setting-block, .search-block {
+    margin: 0 5em 0 0;
+    border-left: 1.5px solid #efefef;
+    padding: 1.5em 0 1.5em 2em;
+    
+}
+
+.profile-dashboard {
+    margin-left: auto;
+    padding-right: 5em;
+    padding-left: 2em;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    border-left: 1.5px solid #efefef;
+}
+
+.schedule-block:hover , .customers-block:hover , .setting-block:hover , .search-block:hover , .organisation-block:hover , .profile-dashboard:hover {
+    color: rgb(74, 167, 201);
+}
+
+.category-block {
+    margin: 0 2em 0 0;
+    padding: 1.5em 1em 1.5em 1em;
+     
+}
+
+.category-block:hover {
+    border-bottom: 2px solid rgb(74, 167, 201);  
+}
+
+.span-large {
+    font-size: 1.2em;
+    padding-bottom: 1em !important;
+    padding-top: 1em !important;
+     
+}
+
+
+
